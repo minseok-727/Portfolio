@@ -7,7 +7,7 @@
 
 # 강민석
 
-**영남대학교 로봇공학과** (2026 졸업 예정)
+**영남대학교 로봇공학과** (2027 졸업 예정)<br>
 AI Implementation Lab 학부연구생 (2025.03 ~)
 
 📧 happerk2@gmail.com
@@ -24,7 +24,7 @@ AI Implementation Lab 학부연구생 (2025.03 ~)
 |---|---|
 | 2020 | 영남고등학교 졸업 |
 | 2021 | 영남대학교 로봇공학과 학사 입학 |
-| 2026 | 영남대학교 로봇공학과 학사 졸업 (예정) |
+| 2027 | 영남대학교 로봇공학과 학사 졸업 (예정) |
 
 ## 어학 및 자격증
 
@@ -46,4 +46,4 @@ AI Implementation Lab 학부연구생 (2025.03 ~)
 ## 논문 및 기술
 
 - [학술대회] 카메라-PSD 융합 기반 실내 로봇 정밀 측위 성능 분석, JCCI 2026 발표
-- [저널] "Single-Source TD-OSLAC: A Shared-Aperture Optical ISAC Framework with Hierarchical Hybrid Tracking for Indoor Mobile Robots" (1저자, IEEE Sensors Journal, Under Revision)
+- [저널] "Single-Source TD-OSLAC: A Shared-Aperture Optical ISAC Framework with Hierarchical Hybrid Tracking for Indoor Mobile Robots" (1저자, IEEE Sensors Journal, **Under Revision**)
