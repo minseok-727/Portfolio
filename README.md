@@ -78,7 +78,7 @@
 
 ### 핵심 기술
 
-<img src="images/diagrams-row.jpg" width="100%" alt="시스템 아키텍처 및 구조도">
+<img src="images/diagrams-row-v2.jpg" width="100%" alt="시스템 아키텍처 및 구조도">
 
 #### 1. 레이저 거리측정 기반 3D 위치 측정
 
