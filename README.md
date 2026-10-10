@@ -80,21 +80,12 @@
 
 ---
 
-### 해결을 위한 접근
-
-<img src="images/system-diagram.png" width="420" alt="시스템 구조도">
-
-| | 기술 | 목적 |
-|---|---|---|
-| 1 | 레이저 거리측정 센서 활용 | 고정된 관측기 기준, 로봇의 3D 위치 측정 |
-| 2 | 카메라 & PSD 센서 활용 컨트롤러 설계 | 2축 모터 제어로 레이저의 지속적인 타겟 조준 |
-| 3 | 레이저 변조 활용 | 관측기에서 측정한 위치 정보를 로봇에 전송 |
-
----
-
 ### 핵심 기술
 
-<img src="images/architecture.png" width="380" alt="시스템 아키텍처">
+<p>
+<img src="images/architecture.png" height="380" alt="시스템 아키텍처">
+<img src="images/system-diagram.png" height="380" alt="시스템 구조도">
+</p>
 
 #### 1. 레이저 거리측정 기반 3D 위치 측정
 
