@@ -51,11 +51,7 @@
 
 ## 프로젝트 1. 카메라-PSD 센서 퓨전 기반 2축 모터 트래킹 & 위치 측정 및 정보 전송 시스템 제작
 
-<p>
-<img src="images/row-architecture.jpg" height="300" alt="시스템 아키텍처">
-<img src="images/row-hardware.jpg" height="300" alt="관측기 하드웨어">
-<img src="images/row-tracker.jpg" height="300" alt="관측기 및 타겟 제작 사진">
-</p>
+<img src="images/photos-row.jpg" width="100%" alt="시스템 아키텍처, 관측기 하드웨어, 관측기 및 타겟 제작 사진">
 
 <table>
 <tr><th>개발 기간</th><td>2025.10 ~ 2026.07</td></tr>
@@ -82,10 +78,7 @@
 
 ### 핵심 기술
 
-<p>
-<img src="images/architecture.png" height="380" alt="시스템 아키텍처">
-<img src="images/system-diagram.png" height="380" alt="시스템 구조도">
-</p>
+<img src="images/diagrams-row.jpg" width="100%" alt="시스템 아키텍처 및 구조도">
 
 #### 1. 레이저 거리측정 기반 3D 위치 측정
 
@@ -98,7 +91,7 @@
 | 센서 | 역할 |
 |---|---|
 | 카메라 | 광범위 탐색 (ArUco 마커로 로봇 탐색) |
-| PSD 센서 | 정밀 조준 (레이저 빔이 들어오는 위치를 정밀 측정) |
+| PSD 센서 | 정밀 조준 (레이저 빔의 광점 위치를 정밀 측정할 수 있는 광 센서) |
 
 <img src="images/hardware.jpg" width="380" alt="관측기 하드웨어">
 
