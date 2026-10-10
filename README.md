@@ -45,5 +45,5 @@ AI Implementation Lab 학부연구생 (2025.03 ~)
 
 ## 논문 및 기술
 
-- 카메라-PSD 융합 기반 실내 로봇 정밀 측위 성능 분석 (JCCI 2026)
-- "Single-Source TD-OSLAC: A Shared-Aperture Optical ISAC Framework with Hierarchical Hybrid Tracking for Indoor Mobile Robots" (Under Revision, IEEE Sensors Journal)
+- [학술대회] 카메라-PSD 융합 기반 실내 로봇 정밀 측위 성능 분석, JCCI 2026 발표
+- [저널] "Single-Source TD-OSLAC: A Shared-Aperture Optical ISAC Framework with Hierarchical Hybrid Tracking for Indoor Mobile Robots" (1저자, IEEE Sensors Journal, Under Revision)
