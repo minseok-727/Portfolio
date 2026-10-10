@@ -93,13 +93,11 @@
 | 카메라 | 광범위 탐색 (ArUco 마커로 로봇 탐색) |
 | PSD 센서 | 정밀 조준 (레이저 빔의 광점 위치를 정밀 측정할 수 있는 광 센서) |
 
-<img src="images/hardware.jpg" width="380" alt="관측기 하드웨어">
+<img src="images/hardware-robot-row.jpg" width="640" alt="관측기 하드웨어 및 이동로봇">
 
 #### 3. 레이저 변조 기반 정보 전송
 
 레이저를 켜고 끄는 신호(켜짐 = 1, 꺼짐 = 0)로 좌표 정보를 담아 보내고, 로봇의 수신부가 이를 읽음
-
-<img src="images/mobile-robot.jpg" width="260" alt="이동로봇">
 
 ---
 
