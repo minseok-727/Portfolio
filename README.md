@@ -1,20 +1,6 @@
-<table>
-<tr>
-<td width="200" align="center">
-<img src="images/profile-placeholder.svg" width="180" alt="프로필 사진 (준비 중)">
-</td>
-<td>
-
-# 강민석
-
-**영남대학교 로봇공학과** (2027 졸업 예정)<br>
-AI Implementation Lab 학부연구생 (2025.03 ~)
+## Contact
 
 📧 happerk2@gmail.com
-
-</td>
-</tr>
-</table>
 
 ---
 
