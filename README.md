@@ -8,7 +8,7 @@
 # 강민석
 
 **영남대학교 로봇공학과** (2026 졸업 예정)
-AI Implementation Lab 학부연구생 (2025.03 ~ 현재)
+AI Implementation Lab 학부연구생 (2025.03 ~)
 
 📧 happerk2@gmail.com
 
@@ -38,7 +38,7 @@ AI Implementation Lab 학부연구생 (2025.03 ~ 현재)
 
 ## 경험 및 프로젝트
 
-- **2025.03 ~ 현재** 영남대학교 AI Implementation Lab 학부연구생
+- **2025.03 ~** 영남대학교 AI Implementation Lab 학부연구생
 - 수중 음향 빔 정렬 실험용 2축 모터 제어 프로그램 개발
 - 카메라-PSD 센서 퓨전 기반 2축 모터 트래킹 & 위치 측정 및 정보 전송 시스템 개발
 - LabVIEW 기반 모터 제어기 구성 및 추종·외란 제거 성능 시험 시스템 제작
