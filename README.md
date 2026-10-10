@@ -51,6 +51,12 @@
 
 ## 프로젝트 1. 카메라-PSD 센서 퓨전 기반 2축 모터 트래킹 & 위치 측정 및 정보 전송 시스템 제작
 
+<p>
+<img src="images/row-architecture.jpg" height="300" alt="시스템 아키텍처">
+<img src="images/row-hardware.jpg" height="300" alt="관측기 하드웨어">
+<img src="images/row-tracker.jpg" height="300" alt="관측기 및 타겟 제작 사진">
+</p>
+
 | | |
 |---|---|
 | **개발 기간** | 2025.10 ~ 2026.07 |
