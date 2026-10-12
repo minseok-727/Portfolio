@@ -80,11 +80,11 @@
 
 <img src="images/diagrams-row-v2.jpg" width="100%" alt="시스템 아키텍처 및 구조도">
 
-#### 1. 레이저 거리측정 기반 3D 위치 측정
+### 1. 레이저 거리측정 기반 3D 위치 측정
 
 레이저로 로봇까지의 거리(distance) 산출, 2축 모터의 회전각(yaw, pitch) 결합, 최종적으로 관측기 기준 로봇의 3D 좌표 (x, y, z) 계산
 
-#### 2. 카메라 & PSD 센서 기반 지속 트래킹
+### 2. 카메라 & PSD 센서 기반 지속 트래킹
 
 로봇이 움직여도 레이저가 계속 로봇을 조준하도록 2축 모터 피드백 제어
 
@@ -95,7 +95,7 @@
 
 <img src="images/algorithm.jpg" width="100%" alt="제안 시스템 알고리즘 (Phase 1 카메라 기반 광범위 탐색, Phase 2 PSD 기반 정밀 추종)">
 
-#### 3. 레이저 변조 기반 정보 전송
+### 3. 레이저 변조 기반 정보 전송
 
 <img src="images/communication.jpg" width="450" alt="레이저 변조 기반 3D 좌표 정보 전송 (Transmitter / Target)">
 
