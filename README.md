@@ -97,6 +97,8 @@
 
 #### 3. 레이저 변조 기반 정보 전송
 
+<img src="images/communication.jpg" width="450" alt="레이저 변조 기반 3D 좌표 정보 전송 (Transmitter / Target)">
+
 1. 측정한 3D 좌표를 이진수로 인코딩
 2. 타겟의 조도 센서 (Photo diode)에 레이저 조준 후, 레이저 이진수 변조 (On-Off Keying)
 3. 조도 센서에서 레이저를 수신 후 디코딩하여, 3D 좌표 복원
