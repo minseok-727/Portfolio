@@ -93,7 +93,7 @@
 | 카메라 | 광범위 탐색 (ArUco 마커로 로봇 탐색) |
 | PSD 센서 | 정밀 조준 (레이저 빔의 광점 위치를 정밀 측정할 수 있는 광 센서) |
 
-<img src="images/hardware-robot-row.jpg" width="640" alt="관측기 하드웨어 및 이동로봇">
+<img src="images/algorithm.jpg" width="100%" alt="제안 시스템 알고리즘 (Phase 1 카메라 기반 광범위 탐색, Phase 2 PSD 기반 정밀 추종)">
 
 #### 3. 레이저 변조 기반 정보 전송
 
